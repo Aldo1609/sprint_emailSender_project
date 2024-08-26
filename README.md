@@ -5,7 +5,7 @@
 This is a simple proyect with 1 endpoint:
 
 - /api/v1/send
-- 
+
 ## Requirements
 
 📏 JDK 17
